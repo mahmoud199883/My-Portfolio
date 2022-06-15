@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bacd4e0c.css",
+    "main.js": "/static/js/main.42b0ca97.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/rest2.PNG": "/static/media/rest2.184fd13506398a806721.PNG",
+    "static/media/business.PNG": "/static/media/business.6bbf55d63bdde949620b.PNG",
+    "static/media/wedding.PNG": "/static/media/wedding.c4a82196c70ddcb069c8.PNG",
+    "static/media/company.PNG": "/static/media/company.670ad6c8a4a76fe75a46.PNG",
+    "static/media/jsmovies.PNG": "/static/media/jsmovies.3ae2b3ce80e7affd34d2.PNG",
+    "static/media/moviesangular.PNG": "/static/media/moviesangular.303a9017fea78aca3e28.PNG",
+    "static/media/dentical.PNG": "/static/media/dentical.73420a0ffdacd4f09c2c.PNG",
+    "static/media/event.PNG": "/static/media/event.7b9ec30b2e4933e41d34.PNG",
+    "static/media/template.PNG": "/static/media/template.b00bb82fecf929fcde98.PNG",
+    "static/media/union.PNG": "/static/media/union.d45d57445f7b3cf33df9.PNG",
+    "static/media/photographer.PNG": "/static/media/photographer.6023056727d459316eb3.PNG",
+    "static/media/Mahmoud Hamdy CV Frontend web developer.pdf": "/static/media/Mahmoud Hamdy CV Frontend web developer.ab60be0e52b8f8b28a81.pdf",
+    "static/media/portfolio.PNG": "/static/media/portfolio.9e65091d73a0412ca118.PNG",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/111.png": "/static/media/111.76e1219b51a4dc1323fb.png",
+    "static/media/companytwo.PNG": "/static/media/companytwo.2ac9d8dfecc4cc3606b8.PNG",
+    "static/media/me2.png": "/static/media/me2.9fa2c4971138bf92db01.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/bookmarker.PNG": "/static/media/bookmarker.7c9d1811af6ae91f3c6d.PNG",
+    "static/media/curd.PNG": "/static/media/curd.651efb61eb241fbe0abb.PNG",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/index.html",
+    "main.bacd4e0c.css.map": "/static/css/main.bacd4e0c.css.map",
+    "main.42b0ca97.js.map": "/static/js/main.42b0ca97.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bacd4e0c.css",
+    "static/js/main.42b0ca97.js"
+  ]
+}
